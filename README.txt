@@ -91,7 +91,7 @@ prompt -> input -> exeCmd() -> corresponding function returns:
   bytearray.
 
 ===============================================================================
-IMPLEMENTATIONS:
+IMPLEMENTATION:
 
 This software has been created and tested with Python 3.4.2. Probably it may
 not run properly on Python2 without modifications.
